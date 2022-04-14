@@ -9,6 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^1.8.8",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@fontsource/inter": "^4.5.7",
+    "bruteforcejs": "^1.1.11",
+    "framer-motion": "^6",
+    "js-sha256": "^0.9.0",
     "next": "12.1.4",
     "react": "18.0.0",
     "react-dom": "18.0.0"
