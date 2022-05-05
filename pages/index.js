@@ -8,6 +8,7 @@ import {
   useClipboard,
   useToast,
   Heading,
+  Link,
 } from "@chakra-ui/react";
 import { motion } from "framer-motion";
 import { useState } from "react";
@@ -108,7 +109,9 @@ export default function Home() {
             alignItems="center"
           >
             <LogoTea256 />
-            <LogoGithub />
+            <Link href="https://github.com/victorbrambati/tea256" isExternal>
+              <LogoGithub />
+            </Link>
           </Flex>
         </Flex>
       </Box>
