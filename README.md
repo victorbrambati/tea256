@@ -6,7 +6,7 @@ First, run the development server:
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) or with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) or [https://tea256.vercel.app](https://tea256.vercel.app/) to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
